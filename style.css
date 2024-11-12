@@ -1,0 +1,20 @@
+/* begin header */
+/* end header */
+/* begin wrapper */
+.main{
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 400;  
+}
+.my-account{
+    box-sizing: border-box;
+    color: rgb(179, 17, 17);
+    font-size: 27.2px;
+    font-weight: 700;
+}
+
+
+
+/* end wrapper */
+/* begin footer */
+/* end footer */
